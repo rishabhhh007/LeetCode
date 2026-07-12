@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rishabhhh007/DSA/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/rishabhhh007/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rishabhhh007/DSA/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rishabhhh007/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rishabhhh007/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
