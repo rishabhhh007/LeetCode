@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/rishabhhh007/DSA/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/rishabhhh007/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/rishabhhh007/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/rishabhhh007/DSA/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/rishabhhh007/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/rishabhhh007/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishabhhh007/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rishabhhh007/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/rishabhhh007/DSA/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/rishabhhh007/DSA/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishabhhh007/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
