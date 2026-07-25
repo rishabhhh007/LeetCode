@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishabhhh007/DSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/rishabhhh007/DSA/tree/master/0242-valid-anagram) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishabhhh007/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishabhhh007/DSA/tree/master/0015-3sum) |
 | [0392-is-subsequence](https://github.com/rishabhhh007/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rishabhhh007/DSA/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/rishabhhh007/DSA/tree/master/1768-merge-strings-alternately) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishabhhh007/DSA/tree/master/0015-3sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhhh007/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishabhhh007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishabhhh007/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
