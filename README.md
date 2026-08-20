@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/rishabhhh007/DSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/rishabhhh007/DSA/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/rishabhhh007/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishabhhh007/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rishabhhh007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
