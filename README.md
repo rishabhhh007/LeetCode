@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/rishabhhh007/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rishabhhh007/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhhh007/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rishabhhh007/DSA/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/rishabhhh007/DSA/tree/master/0038-count-and-say) |
+| [0205-isomorphic-strings](https://github.com/rishabhhh007/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rishabhhh007/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/rishabhhh007/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rishabhhh007/DSA/tree/master/0443-string-compression) |
