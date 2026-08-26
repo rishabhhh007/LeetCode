@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishabhhh007/DSA/tree/master/0015-3sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhhh007/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhhh007/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabhhh007/DSA/tree/master/0875-koko-eating-bananas) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhhh007/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhhh007/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabhhh007/DSA/tree/master/0875-koko-eating-bananas) |
 ## Ternary Search
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishabhhh007/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishabhhh007/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
