@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/rishabhhh007/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishabhhh007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishabhhh007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/rishabhhh007/DSA/tree/master/0015-3sum) |
 | [0392-is-subsequence](https://github.com/rishabhhh007/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rishabhhh007/DSA/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/rishabhhh007/DSA/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishabhhh007/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhhh007/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabhhh007/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhhh007/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
