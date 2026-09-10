@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/rishabhhh007/DSA/tree/master/0015-3sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhhh007/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/rishabhhh007/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhhh007/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabhhh007/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhhh007/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhhh007/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/rishabhhh007/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhhh007/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rishabhhh007/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Stack
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/rishabhhh007/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhhh007/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabhhh007/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhhh007/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/rishabhhh007/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhhh007/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rishabhhh007/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishabhhh007/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
