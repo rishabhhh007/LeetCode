@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishabhhh007/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rishabhhh007/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabhhh007/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rishabhhh007/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabhhh007/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishabhhh007/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rishabhhh007/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabhhh007/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishabhhh007/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rishabhhh007/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rishabhhh007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -253,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/rishabhhh007/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rishabhhh007/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
