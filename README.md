@@ -266,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rishabhhh007/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rishabhhh007/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/rishabhhh007/LeetCode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
