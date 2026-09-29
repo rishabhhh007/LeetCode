@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/rishabhhh007/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1609-even-odd-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rishabhhh007/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/rishabhhh007/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1609-even-odd-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rishabhhh007/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Lifting
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/rishabhhh007/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1609-even-odd-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1609-even-odd-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## DP on Trees
 |  |
