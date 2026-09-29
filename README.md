@@ -273,5 +273,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [1068-product-sales-analysis-i](https://github.com/rishabhhh007/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/rishabhhh007/LeetCode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rishabhhh007/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1661-average-time-of-process-per-machine](https://github.com/rishabhhh007/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/rishabhhh007/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
