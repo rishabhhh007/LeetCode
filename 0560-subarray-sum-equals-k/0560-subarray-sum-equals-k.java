@@ -1,6 +1,6 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        Map<Integer,Integer> m=new HashMap<>();
+        HashMap<Integer,Integer> m=new HashMap<>();
         int cnt=0;
         int sum=0;
         m.put(0,1);
