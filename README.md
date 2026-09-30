@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabhhh007/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/rishabhhh007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rishabhhh007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabhhh007/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/rishabhhh007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rishabhhh007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabhhh007/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/rishabhhh007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rishabhhh007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -220,10 +223,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -282,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rishabhhh007/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/rishabhhh007/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/rishabhhh007/LeetCode/tree/master/1683-invalid-tweets) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
