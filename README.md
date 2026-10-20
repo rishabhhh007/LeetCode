@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0743-network-delay-time](https://github.com/rishabhhh007/LeetCode/tree/master/0743-network-delay-time) |
 | [0938-range-sum-of-bst](https://github.com/rishabhhh007/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rishabhhh007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rishabhhh007/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/rishabhhh007/LeetCode/tree/master/0743-network-delay-time) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/rishabhhh007/LeetCode/tree/master/1302-deepest-leaves-sum) |
@@ -358,4 +360,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rishabhhh007/LeetCode/tree/master/0133-clone-graph) |
+| [0743-network-delay-time](https://github.com/rishabhhh007/LeetCode/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rishabhhh007/LeetCode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rishabhhh007/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rishabhhh007/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
