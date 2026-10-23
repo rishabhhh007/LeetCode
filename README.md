@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/rishabhhh007/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/rishabhhh007/LeetCode/tree/master/0743-network-delay-time) |
 | [0938-range-sum-of-bst](https://github.com/rishabhhh007/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rishabhhh007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rishabhhh007/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/rishabhhh007/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/rishabhhh007/LeetCode/tree/master/0743-network-delay-time) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rishabhhh007/LeetCode/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/rishabhhh007/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/rishabhhh007/LeetCode/tree/master/0743-network-delay-time) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rishabhhh007/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rishabhhh007/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -398,5 +401,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/rishabhhh007/LeetCode/tree/master/0684-redundant-connection) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rishabhhh007/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
