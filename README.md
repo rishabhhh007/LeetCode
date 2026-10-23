@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/rishabhhh007/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/rishabhhh007/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/rishabhhh007/LeetCode/tree/master/1462-course-schedule-iv) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rishabhhh007/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/rishabhhh007/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/rishabhhh007/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/rishabhhh007/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1609-even-odd-tree](https://github.com/rishabhhh007/LeetCode/tree/master/1609-even-odd-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rishabhhh007/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0133-clone-graph](https://github.com/rishabhhh007/LeetCode/tree/master/0133-clone-graph) |
 | [0743-network-delay-time](https://github.com/rishabhhh007/LeetCode/tree/master/0743-network-delay-time) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/rishabhhh007/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rishabhhh007/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/rishabhhh007/LeetCode/tree/master/1462-course-schedule-iv) |
 ## Heap (Priority Queue)
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rishabhhh007/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/rishabhhh007/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
