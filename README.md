@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rishabhhh007/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/rishabhhh007/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/rishabhhh007/DSA/tree/master/0392-is-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rishabhhh007/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabhhh007/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/rishabhhh007/DSA/tree/master/0015-3sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabhhh007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/rishabhhh007/LeetCode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/rishabhhh007/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhhh007/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/rishabhhh007/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhhh007/DSA/tree/master/0560-subarray-sum-equals-k) |
