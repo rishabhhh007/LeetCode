@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rishabhhh007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/rishabhhh007/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rishabhhh007/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/rishabhhh007/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rishabhhh007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/rishabhhh007/DSA/tree/master/0392-is-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rishabhhh007/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabhhh007/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/rishabhhh007/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rishabhhh007/LeetCode/tree/master/0684-redundant-connection) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rishabhhh007/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rishabhhh007/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
