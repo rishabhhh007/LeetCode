@@ -3,47 +3,49 @@ class Solution {
         if(p[x]==x){
             return x;
         }
+
         return p[x]=find(p[x],p);
-
     }
 
-    void union(int x,int y,int[] parent, int[] size){
-        int rootX=find(x,parent);
-        int rootY=find(y,parent);
+    void union(int x,int y,int[] p,int[] size){
+        int rootx=find(x,p);
+        int rooty=find(y,p);
+        if(rootx==rooty){
+            return;
+        }
 
-        if(size[rootX]<size[rootY]){
-            parent[rootX]=rootY;
-            size[rootY]+=size[rootX];
+        if(size[rootx]<size[rooty]){
+            p[rootx]=rooty;
+            size[rooty]+=size[rootx];
         }else{
-            parent[rootY]=rootX;
-            size[rootX]=size[rootY];
+            p[rooty]=rootx;
+            size[rootx]+=size[rooty];
         }
     }
-    public int findCircleNum(int[][] isConnected) {
-        
-        int n=isConnected.length;
+    public int findCircleNum(int[][] c) {
+        int n=c.length;
+        int[] p=new int[n+1];
+        int[] s=new int[n+1];
 
-        int[] parent=new int[n+1];
-        int[] size=new int[n+1];
-
-        for(int i=1;i<=n;i++){
-            parent[i]=i;
-            size[i]=1;
-        }
-        int temp=n;
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(isConnected[i][j]==1){
-                    int temp1=find(i,parent);
-                    int temp2=find(j,parent);
+            p[i]=i;
+            s[i]=1;
+        }
+        int ans=n;
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(c[i][j]==1){
+                    int temp1=find(i,p);
+                    int temp2=find(j,p);
 
                     if(temp1!=temp2){
-                        union(temp1,temp2,parent,size);
-                        temp--;
+                        ans--;
+                        union(i,j,p,s);
                     }
                 }
             }
         }
-        return temp;
+        return ans;
     }
 }
